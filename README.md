@@ -16,7 +16,7 @@ On top of simple-tv.php, you can find a configuration key to set "$save_path".
 Set here the path in which you want SimpleTV could store recorded files.
 
 # Features
-* Application display the list of available stations
+* Application display the list of available stations; the source XML file for stations can change often; so it's updated each time application starts
 * You can choose your number
 * Press "l" to watch station
 * Press "e" to record station
