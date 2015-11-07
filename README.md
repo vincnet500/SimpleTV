@@ -21,3 +21,9 @@ Set here the path in which you want SimpleTV could store recorded files.
 * Press "l" to watch station
 * Press "e" to record station
 * For recording, you can choose a live record or a scheduled one
+
+# Start Application
+Just run :
+```
+php simple-tv.php
+```
