@@ -11,6 +11,12 @@ It can be used on :
 * Windows
 * Linux
 
+# Start Application
+Just run :
+```
+php simple-tv.php
+```
+
 # Configuration
 On top of simple-tv.php, you can find a configuration key to set "$save_path".
 Set here the path in which you want SimpleTV could store recorded files.
@@ -21,9 +27,3 @@ Set here the path in which you want SimpleTV could store recorded files.
 * Press "l" to watch station
 * Press "e" to record station
 * For recording, you can choose a live record or a scheduled one
-
-# Start Application
-Just run :
-```
-php simple-tv.php
-```
