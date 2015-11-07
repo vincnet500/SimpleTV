@@ -36,8 +36,8 @@
 		<xforwarded>true</xforwarded>
 	</source>
 	<source label="FRANCE2">
-		<url>http://live.francetv.fr/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8</url>
-		<plugin>hls://</plugin>
+		<url>http://c004.p101.edgesuite.net/i/c004/france2_1@97347/master.m3u8</url>
+		<plugin>hlsvariant://</plugin>
 		<xforwarded>true</xforwarded>
 	</source>
 	<source label="FRANCE24">
@@ -76,8 +76,8 @@
 		<xforwarded>true</xforwarded>
 	</source>
 	<source label="M6">
-		<url>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8</url>
-		<plugin>hls://</plugin>
+		<url>http://c004.p108.edgesuite.net/i/c004/m6_1@97467/master.m3u8</url>
+		<plugin>hlsvariant://</plugin>
 		<xforwarded>true</xforwarded>
 	</source>
 	<source label="N23">

@@ -26,7 +26,7 @@ $xforwarded = array();
 $plugin = array();
 
 // Update tv-sources.xml from web site (URLs can change often...)
-file_put_contents("tv-sources.xml", file_get_contents("http://nemolis.com/tv/tv-sources.xml"));
+file_put_contents("tv-sources.xml", file_get_contents("https://raw.githubusercontent.com/vincnet500/SimpleTV/master/tv-sources.xml"));
 $xml = new DomDocument();
 $xml->load('tv-sources.xml');
 echo "Le fichier XML des sources TV a ete mis a jour.\r\n";
